@@ -1,13 +1,19 @@
-html {
+body {
   background-color: #c9b5ab;
 }
 
-h1,h2 {
- font-family: PT Sans;
- font-size: 1.5rem;
- color: #3f1622;
+h1, h2 {
+  font-family: "PT Sans";
+  font-size: 1.5rem;
+  color: #3f1622;
 }
 
-ol > li {
+a:hover {
   color: #8f2440;
+}
+
+p {
+  font-family: "PT Serif";
+  font-size: 1.125rem;
+  color: #222;
 }
