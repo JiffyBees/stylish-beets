@@ -1,13 +1,13 @@
-body {
+html {
   background-color: #c9b5ab;
-  font-family: PT Sans;
 }
 
-h1 {
-  font-size: 1.5rem;
+h1,h2 {
+ font-family: PT Sans;
+ font-size: 1.5rem;
+ color: #3f1622;
 }
 
-article {
-  font-style: italic;
-  color: ;
+ol > li {
+  color: #8f2440;
 }
