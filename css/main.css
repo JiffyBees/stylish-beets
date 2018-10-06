@@ -1,5 +1,5 @@
-html{
-
+html {
+  line-height: 1.5;
 }
 
 body {
@@ -8,29 +8,36 @@ body {
 
 .nav {
   font-family: "PT Sans";
-  font-size: 1.5rem;
+  font-size: 1.125rem;
+  font-weight: bold;
 }
 
-h1, h2{
+h1, h2 {
+  font-family: "PT Sans";
+  font-size: 1.5rem;
   color: #3f1622;
 }
 
-image{
-
-}
-
-a:link {
+a {
   color: #8f2440;
   text-decoration: none;
 }
 
 a:hover {
-  color: #8f2440;
-  text-decoration: none;
+  color: #3f1622;
+  text-decoration: underline;
 }
 
-p {
+figcaption {
+  font-size: 0.8rem;
+  font-style: italic;
+  text-align: center;
+}
+
+.p1 {
   font-family: "PT Serif";
   font-size: 1.125rem;
+  font-style: normal;
+  font-weight: bold;
   color: #222;
 }
