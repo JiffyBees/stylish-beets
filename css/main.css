@@ -1,15 +1,32 @@
+html{
+
+}
+
 body {
   background-color: #c9b5ab;
 }
 
-h1, h2 {
+.nav {
   font-family: "PT Sans";
   font-size: 1.5rem;
+}
+
+h1, h2{
   color: #3f1622;
+}
+
+image{
+
+}
+
+a:link {
+  color: #8f2440;
+  text-decoration: none;
 }
 
 a:hover {
   color: #8f2440;
+  text-decoration: none;
 }
 
 p {
